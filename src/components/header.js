@@ -28,6 +28,9 @@ const Header = ({ siteTitle }) => (
         </Link>
       </h1>
     </div>
+
+<link href="https://fonts.googleapis.com/css?family=Cutive+Mono&display=swap" rel="stylesheet"/>
+ 
   </header>
 )
 
